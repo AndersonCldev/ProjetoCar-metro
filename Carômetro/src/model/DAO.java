@@ -8,7 +8,8 @@ public class DAO {
 	private String driver = "com.mysql.cj.jdbc.Driver";
 	private String url = "jdbc:mysql://localhost:3306/dbcadastroCanditado";
 	private String user = "root";
-	private String password = "141632An?";
+	private String password = "";
+// Não esqueça de configura a class "DAO" para conseguir ultilizar o programa em sua maquina alterando "url","user" e "password".
 	
 	public Connection conectar() {
 		try {
