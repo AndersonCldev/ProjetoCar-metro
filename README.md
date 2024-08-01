@@ -71,11 +71,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - GitHub: [AndersonCldev](https://github.com/seu-AndersonCldev)
 
 
-  ## Ajustes Feitos:
-
-1. Corrigido o Caminho do Repositório no Clone: Assegure-se de que o URL do repositório Git está correto.
-
-2. Ajustada a Estrutura dos Passos de Instalação: Organizei para maior clareza.
-
-3. Adicionado Seções de Uso e Contato: Isso pode ajudar a fornecer mais contexto e informações adicionais.
-
+  
