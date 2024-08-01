@@ -79,4 +79,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 3. **Adicionado Seções de Uso e Contato**: Isso pode ajudar a fornecer mais contexto e informações adicionais.
 
-Certifique-se de substituir os espaços reservados (como URLs e e-mails) com suas informações reais antes de compartilhar o `README.md`. Se precisar de mais ajuda com o arquivo `README.md` ou com qualquer outra parte do seu projeto, é só avisar!
