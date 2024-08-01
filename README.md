@@ -31,7 +31,7 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
   - Banco de Dados**: Qualquer banco de dados SQL compatível com JDBC (por exemplo, MySQL, PostgreSQL).
   - Driver JDBC**: Dependente do banco de dados utilizado.
 
-##Instalação
+  ## Instalação
 
 1. Clone o Repositório:
    
@@ -55,7 +55,7 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
      java -cp bin Main
      
 
-  ##Uso
+  ## Uso
 
 1. Inicie o aplicativo.
 2. Utilize a interface gráfica para adicionar, editar, buscar e excluir registros de alunos.
@@ -65,13 +65,13 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-  ##Contato
+  ## Contato
 
 - Autor: Anderson Cleiton
 - GitHub: [AndersonCldev](https://github.com/seu-AndersonCldev)
 
 
-  ##Ajustes Feitos:
+  ## Ajustes Feitos:
 
 1. Corrigido o Caminho do Repositório no Clone: Assegure-se de que o URL do repositório Git está correto.
 
