@@ -68,7 +68,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
   ## Contato
 
 - Autor: Anderson Cleiton
-- GitHub: [AndersonCldev](https://github.com/seu-AndersonCldev)
+- GitHub: [AndersonCldev](https://github.com/AndersonCldev)
 
 
   
