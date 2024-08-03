@@ -35,7 +35,7 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
 
 1. Clone o Repositório:
    
-   git clone https://github.com/seu-AndersonCldev/ProjetoCar-metro.git
+   git clone https://github.com/AndersonCldev/ProjetoCar-metro.git
    cd ProjetoCar-metro
    
 
