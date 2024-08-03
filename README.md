@@ -25,7 +25,7 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
   - Funcionalidades Adicionais:
   - Botão "Sobre" para informações adicionais sobre o sistema.
 
-   ## Requisitos
+   ## 📝 Requisitos 
 
   - Java Development Kit (JDK): Versão 8 ou superior.
   - Banco de Dados**: Qualquer banco de dados SQL compatível com JDBC (por exemplo, MySQL, PostgreSQL).
