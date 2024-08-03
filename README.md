@@ -61,7 +61,7 @@ O Carômetro é um aplicativo de gerenciamento de alunos desenvolvido em Java, u
 2. Utilize a interface gráfica para adicionar, editar, buscar e excluir registros de alunos.
 3. Visualize as fotos e os dados dos alunos conforme necessário.
 
-  ##Licença
+  ## Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
